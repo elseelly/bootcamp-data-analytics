@@ -1,12 +1,14 @@
 ## Notas de Aula referentes ao Módulo 2
 
-Nesta aula, estamos aprendendo comandos úteis do Github.
+Nesta aula, estamos aprendendo comandos úteis do Git.
 
-### git status
+## 1- git status
 Verificar o status dos arquivos e pastas dentro do nosso repositório.
 
-## git add
-### git add .
+## 2 - git add
+### 2.1 - git add .
 Adiciona todos os arquivos para a esteira de commit.
-### git add [ caminho do arquivo ]
+### 2.2 - git add [ caminho do arquivo ]
 Adiciona um arquivo específico.
+
+## 3- git
